@@ -13,4 +13,4 @@ I am a computer science student at CSUF expected to graduate in 2027
 
 * Lab 10, Part 1
   
-  This is the third lab, I enjoyed this assignment since it helped me learn how to properly use the lowest and highest number digits in the process of the coding. What I learned from this lab was how to compute the maximum and minimum. With this lab, there were some struggles of how to do certain steps but ended well.
+  This is the third lab, I enjoyed this assignment since it helped me learn how to properly use the lowest and highest numbers in the process of the coding. What I learned from this lab was how to compute the maximum and minimum. With this lab, there were some struggles of how to do certain steps but ended well.
