@@ -5,7 +5,7 @@ I am a computer science student at CSUF expected to graduate in 2027
 ## favorite CPSC 120L Labs
 * Lab 4, Part 1
   
-  This is my first favorite lab because we learned how to convert volume. I was able to learn how to accurately declare and initialize double to the conversion ratios between the units of measurements that was required of me to use in the readme file. It was confusing at first but with the help of my teammates and instructors it went smoothly.
+  This is my first favorite lab because we learned how to convert volume. I was able to learn how to accurately declare and initialize double to the conversion ratios between the units of measurements that was required of me to use from the readme file. It was confusing at first but with the help of my teammates and instructors it went smoothly.
 
 * Lab 8, Part 1
   
